@@ -9,21 +9,48 @@
 
 ## 🚀 About me
 
-- 🔭 I’m currently working on **Hiweb Wedding**
+- 🔭 I’m currently working on **Hiweb**
 - 🌱 I’m learning **React, Node.js, MySQL, UI/UX**
 - 💻 I like building **wedding websites, ecommerce websites, and web apps**
 - 📫 Contact me: **ntdungpk123@gmail.com**
 
 ---
+## 🛠️ Skills
 
-## 🛠️ Tech Stack
+### 🎨 Frontend
+HTML, CSS, JavaScript, React
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,github,vscode,figma" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
----
+### ⚙️ Backend
+Node.js, Express.js
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+MySQL, TiDB
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### ☁️ Deployment
+Vercel, GitHub Pages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,github" />
+</p>
+
+### 🧰 Tools
+Git, GitHub, VS Code, Figma
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 ## 📌 Featured Projects
 
 ### 💍 Hiweb Wedding
