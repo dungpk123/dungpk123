@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nguyễn Trung Dũng</h1>
+<h3 align="center">Frontend / Fullstack Developer from Vietnam 🇻🇳</h3>
 
-<!--
-**dungpk123/dungpk123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+React,+Node.js,+MySQL;Building+beautiful+websites" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+
+- 🔭 I’m currently working on **Hiweb Wedding**
+- 🌱 I’m learning **React, Node.js, MySQL, UI/UX**
+- 💻 I like building **wedding websites, ecommerce websites, and web apps**
+- 📫 Contact me: **ntdungpk123@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,github,vscode,figma" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 💍 Hiweb Wedding
+Website tạo thiệp cưới online, giao diện hiện đại, dễ sử dụng.
+
+### 🧑‍💼 JobFinder
+Nền tảng kết nối ứng viên và nhà tuyển dụng.
+
+### 🍱 Food Ordering UI
+Giao diện đặt món ăn bằng React.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dungpk123&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungpk123&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpk123&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="mailto:ntdungpk123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/dungpk123">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
