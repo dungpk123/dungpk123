@@ -32,17 +32,11 @@ Node.js, Express.js
 </p>
 
 ### 🗄️ Database
-MySQL, TiDB
+MySQL, SQL Server, MongoDB
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### ☁️ Deployment
-Vercel, GitHub Pages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
 ### 🧰 Tools
@@ -51,17 +45,6 @@ Git, GitHub, VS Code, Figma
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
-## 📌 Featured Projects
-
-### 💍 Hiweb Wedding
-Website tạo thiệp cưới online, giao diện hiện đại, dễ sử dụng.
-
-### 🧑‍💼 JobFinder
-Nền tảng kết nối ứng viên và nhà tuyển dụng.
-
-### 🍱 Food Ordering UI
-Giao diện đặt món ăn bằng React.
-
 ---
 
 ## 📊 GitHub Stats
