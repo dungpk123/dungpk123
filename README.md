@@ -1,75 +1,84 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Trung Dũng</h1>
-<h3 align="center">Frontend / Fullstack Developer from Vietnam 🇻🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+React,+Node.js,+MySQL;Building+beautiful+websites" />
+# 👋 Hi, I'm Nguyễn Trung Dũng
+
+### Frontend / Fullstack Developer from Vietnam 🇻🇳
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Building+beautiful+web+experiences;React+%E2%80%A2+Node.js+%E2%80%A2+MySQL+%E2%80%A2+UI%2FUX;Always+learning+%E2%80%A2+Always+building" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=dungpk123&label=Profile%20views&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/dungpk123?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
 </p>
+
+</div>
 
 ---
 
-## 🚀 About me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Hiweb**
-- 🌱 I’m learning **React, Node.js, MySQL, UI/UX**
-- 💻 I like building **wedding websites, ecommerce websites, and web apps**
-- 📫 Contact me: **ntdungpk123@gmail.com**
+- 💻 Currently building products at **Hiweb**
+- 🌱 Learning and improving **React, Node.js, MySQL & UI/UX**
+- 🎨 I enjoy building **websites, e-commerce experiences and web apps**
+- ⚡ I care about clean UI, smooth interactions and maintainable code
+- 📫 Reach me at **ntdungpk123@gmail.com**
 
 ---
-## 🛠️ Skills
 
-### 🎨 Frontend
-HTML, CSS, JavaScript, React
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
+<div align="center">
 
-### ⚙️ Backend
-Node.js, Express.js
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind&perline=8" alt="Frontend skills" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase&perline=8" alt="Backend skills" />
 
-### 🗄️ Database
-MySQL, SQL Server, MongoDB
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker&perline=8" alt="Tools" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-</p>
+</div>
 
-### 🧰 Tools
-Git, GitHub, VS Code, Figma
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dungpk123&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dungpk123&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpk123&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dungpk123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dũng's GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dungpk123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 🕹️ Pac-Man Contribution Graph
 
-<p align="left">
-  <a href="mailto:ntdungpk123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/dungpk123">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dungpk123/dungpk123/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dungpk123/dungpk123/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my GitHub contributions" src="https://raw.githubusercontent.com/dungpk123/dungpk123/output/pacman-contribution-graph.svg">
+</picture>
+
+**Watch Pac-Man eat my contributions 👻🟡**
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dungpk123&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's build something awesome.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontAlignY=70&animation=fadeIn" alt="Footer" />
+
+</div>
